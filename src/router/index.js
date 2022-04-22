@@ -52,6 +52,16 @@ const routes = [
     path: '/guanlian',
     name: 'Guanlian',
     component: () => import( '../views/Guanlian.vue')
+  },
+  {
+    path: '/tuan',
+    name: 'Tuan',
+    component: () => import( '../views/Tuan.vue')
+  },
+  {
+    path: '/shezhi',
+    name: 'Shezhi',
+    component: () => import( '../views/Shezhi.vue')
   }
 ]
 

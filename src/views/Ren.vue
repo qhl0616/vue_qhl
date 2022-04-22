@@ -224,8 +224,7 @@
         <div class="div2">
          <p>王嫣然 <span>26岁</span><img src="../assets/logo.png" alt="" class="img2"></p>
          <p class="p2"><span class="sp">低血糖</span>&emsp;<span class="sp1">颈椎病</span></p>
-        <p>你好啊</p>
-        <h1>你好啊啊啊啊</h1>
+        <h1>哈哈哈</h1>
         </div>
       </div>
     </li>

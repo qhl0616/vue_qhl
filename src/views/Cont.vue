@@ -55,7 +55,7 @@
       <img src="../assets/logo.png" alt="">
       <div>
         <p class="p1">
-          璩浩林gdthbteytrfxbgbgfv
+          璩浩林
           <span>2021-04-30</span>
         </p>
         <p class="p2">周五上午您有空吗</p>

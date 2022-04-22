@@ -3,7 +3,7 @@ import { log } from 'util';
 <template>
 <div class="guan">
     <van-nav-bar
-  title="关联家人信fb息"
+  title="关联家人信fvffb息"
   right-text="完成"
   left-arrow
   @click-left="$router.back()"
